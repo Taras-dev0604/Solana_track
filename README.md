@@ -6,7 +6,6 @@ Users can later access their track using the public key of the track.
 ### Assumptions
 - You have the dependencies to run an anchor project.
 - You need to have - Rust, Solana, Yarn and Anchor installed.
-- You can also find [instructions to get set up.](https://project-serum.github.io/anchor/getting-started/installation.html)
 
 ### Running the project
 - All commands need to br run from the project root.
